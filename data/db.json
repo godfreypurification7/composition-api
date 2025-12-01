@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur laborum debitis molestiae architecto blanditiis fuga sed maxime, omnis, at modi non. Inventore molestiae adipisci vitae sunt recusandae non vero ducimus eaque rem molestias, illo ipsa beatae distinctio unde quaerat dolor delectus? Ratione tempora",
+      "tags": ["wevdev", "coding", "news"]
+    },
+    {
+      "id": 2,
+      "title": "top 5 css tips",
+      "body": "Asynchronous JavaScript allows developers to handle operations like API calls, timers, and events without blocking the main thread. With concepts such as callbacks, promises, and async/await, code becomes more readable and efficient. Mastering these techniques is crucial for building modern web applications.",
+      "tags": ["javascript", "async", "webdev"]
+    },
+    {
+      "id": 3,
+      "title": "The Future of Frontend Frameworks",
+      "body": "Frontend development is evolving rapidly with frameworks like React, Vue, and Svelte leading the industry. Each offers unique advantages in performance, scalability, and developer experience. Staying updated with trends helps developers create faster, more interactive, and user-friendly web interfaces.",
+      "tags": ["frontend", "frameworks", "technology"]
+    }
+  ]
+}
